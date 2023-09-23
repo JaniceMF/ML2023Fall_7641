@@ -6,12 +6,15 @@ Analyze TWO classification problems by using five learning algorithms, which are
 
 GENERAL INFORMATION
 
-Title of Dataset: 1.Housingpredict 2.Emoji
+Title of Dataset: 
+1.Housingpredict 
+2.Emoji
 
 ACCESS DATASET AND CODE
 
 1.README/CODE: https://github.com/JaniceMF/ML2023FALL_7641
-2.HousingPredict dataset: 
+2.HousingPredict dataset: https://github.com/JaniceMF/ML2023Fall_7641/blob/ASSIGN1/HousingPredict.csv
+3.Emoji dataset: https://github.com/JaniceMF/ML2023Fall_7641/blob/ASSIGN1/emojis.csv
 
 ENVIRONMENT AND LIBRARY
 
